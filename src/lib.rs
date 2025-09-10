@@ -15,6 +15,10 @@ mod merge_two_sorted_lists_rs;
 mod number_of_people_aware_of_a_secret;
 #[path = "19.remove-nth-node-from-end-of-list.rs"]
 mod remove_nth_node_from_linkedlist;
+#[path = "61.rotate-list.rs"]
+mod rotate_list;
+#[path = "24.swap-nodes-in-pairs.rs"]
+mod swap_nodes_in_pairs;
 
 pub(crate) struct Solution;
 
