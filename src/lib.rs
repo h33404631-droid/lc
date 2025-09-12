@@ -17,6 +17,8 @@ mod number_of_people_aware_of_a_secret;
 mod remove_nth_node_from_linkedlist;
 #[path = "61.rotate-list.rs"]
 mod rotate_list;
+#[path = "2785.sort-vowels-in-a-string.rs"]
+mod sort_vowels_in_a_string;
 #[path = "24.swap-nodes-in-pairs.rs"]
 mod swap_nodes_in_pairs;
 
