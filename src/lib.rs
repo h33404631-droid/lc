@@ -2,6 +2,8 @@
 mod add_two_numbers;
 #[path = "1317.convert-integer-to-the-sum-of-two-no-zero-integers.rs"]
 mod convert_integer_to_the_sum_of_two_no_zero_integers;
+#[path = "3541.find-most-frequent-vowel-and-consonant.rs"]
+mod find_most_frequent_vowel_and_consonant;
 #[path = "1304.find-n-unique-integers-sum-up-to-zero.rs"]
 mod find_n_unique_integers_sum;
 pub(crate) mod linkedlist;
@@ -15,12 +17,16 @@ mod merge_two_sorted_lists_rs;
 mod number_of_people_aware_of_a_secret;
 #[path = "19.remove-nth-node-from-end-of-list.rs"]
 mod remove_nth_node_from_linkedlist;
+#[path = "206.reverse-linked-list.rs"]
+mod reverse_linked_list;
 #[path = "61.rotate-list.rs"]
 mod rotate_list;
 #[path = "2785.sort-vowels-in-a-string.rs"]
 mod sort_vowels_in_a_string;
 #[path = "24.swap-nodes-in-pairs.rs"]
 mod swap_nodes_in_pairs;
+#[path = "3227.vowels-game-in-a-string.rs"]
+mod vowels_game_in_a_string;
 
 pub(crate) struct Solution;
 
